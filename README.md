@@ -1,2 +1,5 @@
 # rpcs3-launcher
-Launcher\updater for rpcs3 project.
+[ENG]: Launcher\updater for rpcs3 project.
+[RUS:] Менеджер запуска и обновления для эмулятора rpcs3.
+
+Last patch: 0.0.4-nightly
